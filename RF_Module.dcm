@@ -240,4 +240,10 @@ K IOT LoRa
 F http://www.wireless-solutions.de/images/stories/downloads/Radio%20Modules/iM880B/General_Information/iM880B_Datasheet_V1_0.pdf
 $ENDCMP
 #
+$CMP inAir9
+D Modtronix Wireless SX1276 LoRa Module, 868MHz and 915MHz, 3.3V
+K LoRa 915MHz 868MHz RF Radio Wireless Modtronix inAir inAir9
+F http://modtronix.com/prod/imod/inair9/inair9_r1_sch.pdf
+$ENDCMP
+#
 #End Doc Library
